@@ -1,0 +1,39 @@
+#bandeau{
+	position : fixed;
+	top:0;
+	left:0;
+	height:100%;
+	width:10%;
+	padding:0;
+	margin:0;
+	//background:url(images/blanc.png) repeat ;
+	
+}
+
+.bandeauspan{
+	padding: 2%;
+	margin: 0;
+	//border-bottom: 1px solid gray;
+	text-align:center;
+}
+
+.lienbandeau{
+	text-decoration:none;
+	color:black;
+}
+
+.icone{
+	width:50%;
+	padding:0;
+	margin:0;
+}
+
+#imagebandeau{
+	position:fixed;
+	height:100%;
+	width:15%;
+	top:0;
+	left:0;
+	margin:0;
+	padding:0;
+}

@@ -1,0 +1,34 @@
+Projet tutoré :
+
+Pour qui ? Pour les enfants.
+Language : PHP JAVASCRIPT (HAXE-> Javascript flash)
+			cahier -> LaTeX
+
+fonctionnalité : 
+-interface simple a utiliser
+-jeux simple a utiliser
+-tutoriel simple a comprendre
+-score du joueur avec nom associer
+-fonction de recherche dans le classement
+
+
+
+-Index
+	-Start
+		-Entrainement
+			-liste des jeux
+				-Tutoriel(sur la page)-|
+				-Jeux<----|
+		-Test
+			-jeux aleatoire
+				-scores-|
+	-Options			|
+		-son			|
+		-reset			|
+	-scores<------------|
+	-Credit
+
+formulaire jeux :
+	-image
+	-tuto
+	-page du jeux

@@ -1,0 +1,94 @@
+/*********************** body **************************/
+body{
+	background:url(images/test4.jpg) repeat-x;
+}
+
+img {
+	border: none;
+}
+/*********************** bandeau **************************/
+#bandeau{
+	position : fixed;
+	top:0;
+	left:0;
+	height:100%;
+	width:10%;
+	padding:0;
+	margin:0;
+	//background:url(images/blanc.png) repeat ;
+	
+}
+
+.bandeauspan{
+	padding: 2%;
+	margin: 0;
+	//border-bottom: 1px solid gray;
+	text-align:center;
+}
+
+.lienbandeau{
+	text-decoration:none;
+	color:black;
+}
+
+.icone{
+	width:50%;
+	padding:0;
+	margin:0;
+}
+
+#imagebandeau{
+	position:fixed;
+	height:100%;
+	width:15%;
+	top:0;
+	left:0;
+	margin:0;
+	padding:0;
+}
+
+
+/*********************** corps **************************/
+
+.jeux{
+	position:fixed;
+	height:30%;
+	width:20%;
+}
+
+.bas{
+	top:40%;
+}
+
+.haut{
+	top:22%;
+}
+#i1{
+	left:15%;
+}
+
+#i2{
+	left:30%;
+}
+
+#i3{
+	left:41%;
+}
+
+#i4{
+	left:49%;
+}
+
+#i5{
+	left:57%;
+}
+
+.jeux:hover{
+	//background-color:silver;
+	//background:url(images/polygone.png) no-repeat;
+
+	//afficher le texte
+}
+
+
+/**************************************************************/

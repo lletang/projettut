@@ -1,0 +1,68 @@
+a:focus, button:focus, input:focus{outline: none;}
+a{outline:none;}
+button::-moz-focus-inner{border:0;}
+input::-moz-focus-inner{border:0;}
+acronym{cursor:default;}
+img{border:0;}
+
+#parking{
+	//background: #BABFC9;
+	//border: 4px dashed #FFCC00;
+	height: 300px;
+	position: relative;
+	overflow: hidden;
+}
+
+.balance{
+	position: absolute;
+	width: 160px;
+	height: 160px;
+	background: #555;
+}
+
+#balance1{
+	background: #66CCFF;
+	left: 443px;
+	top: 8px;
+}
+#balance2{
+	background: #FF3300;
+	left: 264px;
+	top: 8px;
+}
+
+.poid{
+	position: absolute;
+	width: 25px;
+	height: 50px;
+	background: #555;
+	top:200px;
+}
+.poid .nom{
+	position: absolute;
+	bottom: -20px;
+	left: -28px;
+	width: 80px;
+	text-align: center;
+	font: 8pt Verdana, Arial, Helvetica, sans-serif;
+}
+#poid1{
+	width: 30px;
+	height: 30px;
+	background: #FFFF00;
+	-moz-border-radius: 30px;
+	border-radius: 30px;
+	
+	//top: 10px;
+	left: 12px;
+}
+#poid1 .nom{left: -25px;}
+
+#poid2{
+	//top: 100px;
+	left: 100px;
+	height: 28px;
+	background: #FF77BB;
+	-moz-border-radius: 30px 0 30px 0;
+	border-radius: 80px 0 30px 0;
+}

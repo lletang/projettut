@@ -1,0 +1,72 @@
+#aTrouver
+{
+	width:7%;
+	
+	padding:20px 20px 20px 20px;
+	background-color: yellow;
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+	border-radius: 15px; 
+	border:solid black 3px;
+	margin-left: 45%;
+
+
+}
+
+
+#carte>img
+{	position:relative;
+	
+	width:10%;
+	margin-left:1%;
+margin-top:15%;
+	left:20%;
+	
+
+}
+
+
+
+#field
+{
+	
+	width:30px;
+	
+	padding:10px 10px 10px 10px;
+	background-color: yellow;
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+	border-radius: 15px; 
+	border:solid black 3px;
+
+	position: absolute;
+	top:0%;
+	margin-left: 90%;
+}
+
+#field legend
+{	
+	font-style: bold;
+}
+
+#resultat
+{
+	padding-left: 20px;
+}
+
+#niveau_suiv
+{	position: absolute;
+	margin-left: 40%;
+	
+	top:60%;
+
+
+}
+
+#recommencer img
+{	position: absolute;
+	margin-left: 50%;
+	top:50%;
+	width:10%;
+
+}
